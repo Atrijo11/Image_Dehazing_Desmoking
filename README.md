@@ -1,12 +1,12 @@
 # Image_Dehazing_Desmoking
 An Image Dehazing and Desmoking Algorithm that uses the "image_dehazer" library to remove haze and gradio framework for the interface
-# Requirements
-!pip install image_dehazer
+# Required Libraries
+!pip install image_dehazer 
 !pip install gradio
 
-# Output 
+# Procedure
 The code should generate a gradio link, Click on it
-Drag and drop your image withhaze in it , to generate a haze free image on the left output panel
+Drag and drop your image with haze in it , to generate a haze free image on the left output panel
 
-# Use Cases
-Better Visibility on Road, Better Monitoring of Terrain during Natural Calamity, Easier to Pinpoint Victims in case of, Emergency, Better Surveillance
+# Details
+The image_dehazer library's remove_haze() Function was used which uses the HazeMap to remove the haze from the image that the user gives as an input. Gradio was used to build an interface that integrates the backend python file with a frontend so that the project is more interactive and cohesive to the user.
