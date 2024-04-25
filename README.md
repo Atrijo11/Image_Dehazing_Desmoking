@@ -9,8 +9,4 @@ The code should generate a gradio link, Click on it
 Drag and drop your image withhaze in it , to generate a haze free image on the left output panel
 
 # Use Cases
-Better Visibility on Road
-Better Monitoring of Terrain during Natural Calamity
-Easier to Pinpoint Victims in case of 
-Emergency
-Better Surveillance
+Better Visibility on Road, Better Monitoring of Terrain during Natural Calamity, Easier to Pinpoint Victims in case of, Emergency, Better Surveillance
