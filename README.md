@@ -6,9 +6,7 @@ An Image Dehazing and Desmoking Algorithm that uses the "image_dehazer" library 
 
 # Output 
 The code should generate a gradio link, Click on it
-Drag and drop your image withhaze in it , to generate a haze free image
-the output should be as follows
-![Dehazer Output](https://github.com/Atrijo11/Atrijo11-Image_Dehazing_Desmoking/assets/134099030/6a9158d9-6556-46af-99ae-8454052da196)
+Drag and drop your image withhaze in it , to generate a haze free image on the left output panel
 
 # Use Cases
 Better Visibility on Road
